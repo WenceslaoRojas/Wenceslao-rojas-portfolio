@@ -15,7 +15,7 @@ function Contacto() {
       <div className={contactoStyle.containerForm}>
         <div className={contactoStyle.alignLeft}>
           <div className={contactoStyle.titleLeft}>
-            <h1 className='title-left'>Enviame un mensaje</h1>
+            <h1 className='title-left'>Envíame un mensaje</h1>
           </div>
           <form
             className={contactoStyle.form}
@@ -86,7 +86,7 @@ function Contacto() {
             colaboración en un proyecto o simplemente saludar, me encantaría
             saber de vos.
             <br />
-            <br /> Simplemente rellená con tu email y enviame un correo.
+            <br /> Simplemente rellena con tu email y envíame un correo.
           </p>
           <div className={contactoStyle.socialConteiner}>
             <a
