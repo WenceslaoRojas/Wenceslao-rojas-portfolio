@@ -145,3 +145,21 @@
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
 }
+
+@media only screen and (max-width: 500px) {
+  .container {
+    height: auto;
+  }
+  .containerForm {
+    flex-direction: column;
+  }
+  .alignRight {
+    width: 100%;
+  }
+  .alignLeft {
+    width: 100%;
+  }
+  .form button {
+    width: 100%;
+  }
+}

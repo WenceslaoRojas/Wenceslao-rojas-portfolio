@@ -56,9 +56,9 @@ function Proyectos() {
             </div>
           </a>
           <div className={proyectosStyle.textContainer}>
-            <h3>WhaterApp</h3>
+            <h3>WeatherApp</h3>
             <p>
-              React Js, CSS3, Geolocalizacion de Google, datos de api
+              React Js, CSS3, Geolocalización de Google, datos de api
               "MetaWeather"
             </p>
             <div className={proyectosStyle.imgEnlace}>
