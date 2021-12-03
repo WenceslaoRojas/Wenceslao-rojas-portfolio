@@ -1,0 +1,47 @@
+.section {
+  width: 100%;
+  height: 100vh;
+  padding-top: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+}
+
+.container {
+  display: flex;
+  width: 80%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 6%), 0 2px 5px 0 rgb(0 0 0 / 20%);
+  background-color: #cde1f8;
+  justify-content: center;
+  padding: 15px;
+}
+
+.container article {
+  width: 50%;
+  height: 100%;
+}
+.historia {
+  padding-left: 15px;
+  border-radius: 15px;
+}
+
+.historia h1 {
+  width: 30%;
+  text-align: center;
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-weight: 600;
+  border-bottom: 5px solid #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.historia p {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
