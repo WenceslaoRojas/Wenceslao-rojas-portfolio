@@ -19,7 +19,11 @@ function Proyectos() {
       </div>
       <div className={proyectosStyle.parent}>
         <div className={proyectosStyle.div1}>
-          <a href='https://wikidog-wenceslaorojas.netlify.app/'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://wikidog-wenceslaorojas.netlify.app/'
+          >
             <div className={proyectosStyle.imgContainer}>
               <img src={wikidog} alt='proyecto Wikidog' />
             </div>
@@ -43,14 +47,17 @@ function Proyectos() {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                {" "}
                 <img src={github} alt='enlace web' />
               </a>
             </div>
           </div>
         </div>
         <div className={proyectosStyle.div2}>
-          <a href='https://wikidog-wenceslaorojas.netlify.app/'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://wikidog-wenceslaorojas.netlify.app/'
+          >
             <div className={proyectosStyle.imgContainer}>
               <img src={WhaterApp} alt='proyecto Wikidog' />
             </div>
@@ -74,14 +81,17 @@ function Proyectos() {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                {" "}
                 <img src={github} alt='enlace web' />
               </a>
             </div>
           </div>
         </div>
         <div className={proyectosStyle.div3}>
-          <a href='https://wikidog-wenceslaorojas.netlify.app/'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://wikidog-wenceslaorojas.netlify.app/'
+          >
             <div className={proyectosStyle.imgContainer}>
               <img src={TipApp} alt='proyecto Wikidog' />
             </div>
@@ -102,7 +112,6 @@ function Proyectos() {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                {" "}
                 <img src={github} alt='enlace web' />
               </a>
             </div>

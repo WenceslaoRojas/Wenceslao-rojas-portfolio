@@ -11,7 +11,7 @@ import postgresql from "./imgTecnolgias/postgresql.svg";
 import postman from "./imgTecnolgias/postman.svg";
 import html from "./imgTecnolgias/html.svg";
 import sass from "./imgTecnolgias/sass.svg";
-import figma from "./imgTecnolgias/figma.svg";
+import typescript from "./imgTecnolgias/typescript.svg";
 
 function Tecnologias() {
   return (
@@ -63,8 +63,8 @@ function Tecnologias() {
           <p>Sass</p>
         </div>
         <div className={tecStyle.div12}>
-          <img src={figma} alt='figma' />
-          <p>Figma</p>
+          <img src={typescript} alt='TypeScript' />
+          <p>TypeScript</p>
         </div>
       </div>
     </article>
