@@ -17,13 +17,7 @@ function Contacto() {
           <div className={contactoStyle.titleLeft}>
             <h1 className='title-left'>Envíame un mensaje</h1>
           </div>
-          <form
-            className={contactoStyle.form}
-            onSubmit={(e) => {
-              e.preventDefault();
-              handleSubmit();
-            }}
-          >
+          <form className={contactoStyle.form} onSubmit={handleSubmit}>
             <input
               className={contactoStyle.input}
               type='text'
@@ -73,7 +67,7 @@ function Contacto() {
               errors={state.errors}
             />
             <button type='submit' disabled={state.submitting}>
-              Submit
+              Enviar
             </button>
           </form>
         </div>
