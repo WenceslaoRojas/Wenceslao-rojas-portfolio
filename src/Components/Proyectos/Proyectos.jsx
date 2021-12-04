@@ -56,7 +56,7 @@ function Proyectos() {
           <a
             target='_blank'
             rel='noopener noreferrer'
-            href='https://wikidog-wenceslaorojas.netlify.app/'
+            href='https://clima-app-rh-wr.netlify.app/'
           >
             <div className={proyectosStyle.imgContainer}>
               <img src={WhaterApp} alt='proyecto Wikidog' />
@@ -90,7 +90,7 @@ function Proyectos() {
           <a
             target='_blank'
             rel='noopener noreferrer'
-            href='https://wikidog-wenceslaorojas.netlify.app/'
+            href='https://wenceslaorojas-tipapp.netlify.app/'
           >
             <div className={proyectosStyle.imgContainer}>
               <img src={TipApp} alt='proyecto Wikidog' />
