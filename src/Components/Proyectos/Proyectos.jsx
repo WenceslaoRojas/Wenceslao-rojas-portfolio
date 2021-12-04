@@ -43,7 +43,7 @@ function Proyectos() {
                 <img src={web} alt='enlace web' />
               </a>
               <a
-                href='https://github.com/WenceslaoRojas'
+                href='https://github.com/WenceslaoRojas/PI-DOGS'
                 target='_blank'
                 rel='noopener noreferrer'
               >
@@ -77,7 +77,7 @@ function Proyectos() {
                 <img src={web} alt='enlace web' />
               </a>
               <a
-                href='https://github.com/WenceslaoRojas'
+                href='https://github.com/ricardocch/clima-app'
                 target='_blank'
                 rel='noopener noreferrer'
               >
@@ -108,7 +108,7 @@ function Proyectos() {
                 <img src={web} alt='enlace web' />
               </a>
               <a
-                href='https://github.com/WenceslaoRojas'
+                href='https://github.com/WenceslaoRojas/TipApp'
                 target='_blank'
                 rel='noopener noreferrer'
               >
